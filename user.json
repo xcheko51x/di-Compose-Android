@@ -1,0 +1,104 @@
+{
+    "usuarios": [
+        {
+            "id": 1234,
+            "nombre": "Juan Pérez",
+            "correo": "juan.perez@example.com"
+        },
+        {
+            "id": 5678,
+            "nombre": "Ana Gómez",
+            "correo": "ana.gomez@example.com"
+        },
+        {
+            "id": 9101,
+            "nombre": "Carlos Rodríguez",
+            "correo": "carlos.rodriguez@example.com"
+        },
+        {
+            "id": 1123,
+            "nombre": "María López",
+            "correo": "maria.lopez@example.com"
+        },
+        {
+            "id": 1415,
+            "nombre": "Luis García",
+            "correo": "luis.garcia@example.com"
+        },
+        {
+            "id": 1617,
+            "nombre": "Sofia Martínez",
+            "correo": "sofia.martinez@example.com"
+        },
+        {
+            "id": 1819,
+            "nombre": "Pedro Sánchez",
+            "correo": "pedro.sanchez@example.com"
+        },
+        {
+            "id": 2021,
+            "nombre": "Laura Pérez",
+            "correo": "laura.perez@example.com"
+        },
+        {
+            "id": 2223,
+            "nombre": "Andrés Fernández",
+            "correo": "andres.fernandez@example.com"
+        },
+        {
+            "id": 2425,
+            "nombre": "Isabel Díaz",
+            "correo": "isabel.diaz@example.com"
+        },
+        {
+            "id": 2627,
+            "nombre": "José Gómez",
+            "correo": "jose.gomez@example.com"
+        },
+        {
+            "id": 2829,
+            "nombre": "Marta Sánchez",
+            "correo": "marta.sanchez@example.com"
+        },
+        {
+            "id": 3031,
+            "nombre": "Raúl Rodríguez",
+            "correo": "raul.rodriguez@example.com"
+        },
+        {
+            "id": 3233,
+            "nombre": "Patricia Torres",
+            "correo": "patricia.torres@example.com"
+        },
+        {
+            "id": 3435,
+            "nombre": "David Hernández",
+            "correo": "david.hernandez@example.com"
+        },
+        {
+            "id": 3637,
+            "nombre": "Sandra Jiménez",
+            "correo": "sandra.jimenez@example.com"
+        },
+        {
+            "id": 3839,
+            "nombre": "Fernando Ruiz",
+            "correo": "fernando.ruiz@example.com"
+        },
+        {
+            "id": 4041,
+            "nombre": "Rosa Morales",
+            "correo": "rosa.morales@example.com"
+        },
+        {
+            "id": 4243,
+            "nombre": "Esteban Vargas",
+            "correo": "esteban.vargas@example.com"
+        },
+        {
+            "id": 4445,
+            "nombre": "Carmen Alonso",
+            "correo": "carmen.alonso@example.com"
+        }
+    ]    
+}
